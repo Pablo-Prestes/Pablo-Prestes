@@ -1,9 +1,11 @@
 ## Olá, me chamo Pablo Henrique sou desenvolvedor Full-Stack!
 
 <div align="center" style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=Pablo-Prestes&hide_border=true&bg_color=00000000&title_color=71A40&text_color=F085F2&icon_color=F085F2&show_icons=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Pablo-Prestes&hide_border=true&bg_color=00000000&title_color=71A40&text_color=FFFFFF&icon_color=F085F2&show_icons=true" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Prestes&layout=compact&hide_border=true&title_color=71A40&bg_color=00000000" />
 </div>
+
+  ##
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
