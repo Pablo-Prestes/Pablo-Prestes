@@ -1,8 +1,8 @@
 ## Olá, me chamo Pablo Henrique sou desenvolvedor Full-Stack!
-<div align="center">
-  <a href="https://github.com/Pablo-Prestes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablo-Prestes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Prestes&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+<div align="center" style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Tortoza&hide_border=true&bg_color=00000000&title_color=71A40&text_color=F085F2&icon_color=F085F2&show_icons=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre-Tortoza&layout=compact&hide_border=true&title_color=71A40&bg_color=00000000" />
 </div>
   
 <div style="display: inline_block"><br>
