@@ -1,5 +1,5 @@
 ## Olá, me chamo Pablo Henrique estudante da área de desenvolvimento!
-## Atualmente estou estudando .Net, Entity Framework e Rest Api.
+## <div font="20px"> Atualmente estou estudando .Net, Entity Framework e Rest Api.</div>
 <div align="center" style="display: flex; flex-direction: row;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=Pablo-Prestes&hide_border=true&bg_color=00000000&title_color=71A40&text_color=FFFFFF&icon_color=F085F2&show_icons=true" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Prestes&layout=compact&hide_border=true&title_color=71A40&bg_color=00000000" />
