@@ -15,7 +15,10 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="HTML" height="30" width="40"      src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_8f8bb6324576f86d99bdded93803f89d/genexus.png">            
+  <img align="center" alt="HTML" height="30" width="40"      
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="HTML" height="30" width="40"   
+   
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif">
 </div>
   
